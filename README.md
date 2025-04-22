@@ -1,2 +1,2 @@
-# Binary Tree InPython
+# Binary Tree in Python
 This project implements a Binary Search Tree (BST) in Python, featuring operations such as insertion, removal, element search, tree height calculation, and node degree retrieval. It also includes traversal methods (pre-order, in-order, post-order) and structural checks to determine whether the tree is strictly binary, complete, or full. User interaction is provided through a text-based menu in the terminal, offering a simple and functional interface. The project was developed as part of an academic assignment for a Data Structures course.
