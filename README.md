@@ -1,2 +1,2 @@
 # BinaryTreeInPython
-A training exercise about binary trees made by me for my university.
+Este projeto implementa uma árvore binária de busca (BST) em Python, com funcionalidades como inserção, remoção, busca de elementos, cálculo da altura da árvore, verificação do grau de um nó específico, além das impressões em pré-ordem, in-ordem e pós-ordem. Também permite verificar se a árvore é estritamente binária, completa ou cheia. A interação com o usuário é feita por meio de um menu de texto no terminal, oferecendo uma interface simples e funcional. O projeto foi desenvolvido como parte de um trabalho acadêmico na disciplina de Estrutura de Dados.
